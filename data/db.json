@@ -1,0 +1,52 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "April 04, 2024 4:08:41 PM",
+      "body": "Day"
+    },
+    {
+      "id": 2,
+      "title": "Elite Goals",
+      "datetime": "April 05, 2024 1:05:33 AM",
+      "body": "fghjkl;"
+    },
+    {
+      "id": 3,
+      "title": "Group of Elite",
+      "datetime": "April 06, 2024 9:14:20 AM",
+      "body": "Towards Making a difference"
+    },
+    {
+      "id": 4,
+      "title": "Day2",
+      "datetime": "April 06, 2024 9:33:59 AM",
+      "body": "Hello Day2"
+    },
+    {
+      "id": 5,
+      "title": "Elite Goal2",
+      "datetime": "April 06, 2024 10:03:35 PM",
+      "body": "Success is the sum of small-repeated effort, day-in day-out"
+    },
+    {
+      "id": 6,
+      "title": "My Fourth Post",
+      "datetime": "April 06, 2024 10:12:03 PM",
+      "body": "A fv"
+    },
+    {
+      "id": 8,
+      "title": "Day1",
+      "datetime": "April 06, 2024 11:19:33 PM",
+      "body": "Hello"
+    },
+    {
+      "id": 9,
+      "title": "Motivation1",
+      "datetime": "April 07, 2024 9:31:28 PM",
+      "body": "be who you want to be"
+    }
+  ]
+}

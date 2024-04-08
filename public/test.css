@@ -1,0 +1,28 @@
+
+.grid-container{
+  display: grid;
+  grid-template-rows: 200px 100px;
+}
+
+.container{
+
+   min-height: 300px;
+   width: 300px;
+   color: black;
+   background-color: red; 
+   
+  
+}
+
+.Div1{
+  background-color: red;  
+}
+.Div2{
+  background-color:blue ;  
+}
+.Div3{
+  background-color: green ;  
+}
+.Div1{
+  background-color: yellow;  
+}
